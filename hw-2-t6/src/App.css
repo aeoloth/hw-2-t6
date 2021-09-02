@@ -32,11 +32,11 @@
 }
 
 .card {
-  width: 30%;
+  width: 80%;
 }
 
 .descr {
-  min-height: 350px;
+  /* min-height: 350px; */
   max-height: 350px;
   overflow: auto;
 }
